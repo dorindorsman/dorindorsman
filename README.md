@@ -1,5 +1,5 @@
-[![MasterHead](https://github.com/roma321m/roma321m/blob/main/Square%20Video%20Post%201080x1080%20px.gif)](https://roma321m.io)
-[![MasterHead](https://github.com/roma321m/roma321m/blob/main/Square%20Video%20Post%201080x1080%20px.gif)](https://roma321m.io)
+[![MasterHead](https://github.com/dorindorsman/dorindorsman/blob/378694a16c43f3a239f7ded63770bfe1f43a67a6/Custom%20dimensions%20800x600%20px.gif)](https://dorindorsman.io)
+[![MasterHead](https://github.com/roma321m/roma321m/blob/main/Square%20Video%20Post%201080x1080%20px.gif)](https://dorindorsman.io)
 <h1 align="center">Hi 👋, I'm Dorin Dorsman</h1>
 <h3 align="center">A passionate software engineering Student / Mobile Developer / Android</h3>
 
