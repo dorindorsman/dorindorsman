@@ -1,3 +1,5 @@
+[![MasterHead](https://github.com/roma321m/roma321m/blob/main/Square%20Video%20Post%201080x1080%20px.gif)](https://roma321m.io)
+[![MasterHead](https://github.com/roma321m/roma321m/blob/main/Square%20Video%20Post%201080x1080%20px.gif)](https://roma321m.io)
 <h1 align="center">Hi 👋, I'm Dorin Dorsman</h1>
 <h3 align="center">A passionate software engineering Student / Mobile Developer / Android</h3>
 
