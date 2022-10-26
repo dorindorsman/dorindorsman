@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFQIWdOFmU/QggqfsgAqSGTC1vODwHvNA/watch?utm_content=DAFQIWdOFmU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://dorindorsman.io)
+[![MasterHead](https://www.canva.com/design/DAFQIWdOFmU/QggqfsgAqSGTC1vODwHvNA/watch?utm_content=DAFQIWdOFmU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)]
 <h1 align="center">Hi 👋, I'm Dorin Dorsman</h1>
 <h3 align="center">A passionate software engineering Student / Mobile Developer / Android</h3>
 
