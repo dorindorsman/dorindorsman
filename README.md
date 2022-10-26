@@ -1,5 +1,4 @@
 ![developer](https://user-images.githubusercontent.com/62396222/198009382-7f2a741e-091f-4241-bcc1-1d6cb0925a5f.gif)
-
 <h1 align="center">Hi 👋, I'm Dorin Dorsman</h1>
 <h3 align="center">A passionate software engineering Student / Mobile Developer / Android</h3>
 
