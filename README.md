@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/dorindorsman/dorindorsman/blob/dd4641b6720608253b96d1985a7f56285786a4a3/Custom%20dimensions%20700x1000%20px.gif)](https://dorindorsman.io)
+[![MasterHead](https://www.canva.com/design/DAFQIWdOFmU/BkHSN_rc92Yrx1UBcGH3rw/edit?utm_content=DAFQIWdOFmU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://dorindorsman.io)
 <h1 align="center">Hi 👋, I'm Dorin Dorsman</h1>
 <h3 align="center">A passionate software engineering Student / Mobile Developer / Android</h3>
 
