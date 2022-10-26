@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Dorin Dorsman</h1>
 <h3 align="center">A passionate software engineering Student / Mobile Developer / Android</h3>
 
-- 💬 Ask me about **Java - Android Studio,C - Visual Studio**
+- 💬 Ask me about **Java & Kotlin & Compose - Android Studio || C - Visual Studio**
 
 - 📫 How to reach me **dorsmandorin@gmail.com**
 
