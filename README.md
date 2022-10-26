@@ -1,4 +1,5 @@
-[![MasterHead](https://www.canva.com/design/DAFQIWdOFmU/QggqfsgAqSGTC1vODwHvNA/watch?utm_content=DAFQIWdOFmU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)]
+![developer](https://user-images.githubusercontent.com/62396222/198008601-cc8e52a2-3afe-4030-906e-1e049b5caa23.gif)
+
 <h1 align="center">Hi 👋, I'm Dorin Dorsman</h1>
 <h3 align="center">A passionate software engineering Student / Mobile Developer / Android</h3>
 
