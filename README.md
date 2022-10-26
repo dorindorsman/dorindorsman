@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dorin Dorsman</h1>
 <h3 align="center">A passionate software engineering Student / Android Developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roma321m&label=Profile%20views&color=0e75b6&style=flat" alt="dorindorsman" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dorindorsman&label=Profile%20views&color=0e75b6&style=flat" alt="dorindorsman" /> </p>
 
 - 🌱 I’m currently learning **Kotlin and Jetpack Compose**
 
