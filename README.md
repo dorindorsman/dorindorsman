@@ -1,4 +1,3 @@
-![developer](https://user-images.githubusercontent.com/62396222/198009382-7f2a741e-091f-4241-bcc1-1d6cb0925a5f.gif)
 <h1 align="center">Hi 👋, I'm Dorin Dorsman</h1>
 <h3 align="center">A passionate software engineering Student / Android Developer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dorindorsman&label=Profile%20views&color=0e75b6&style=flat" alt="dorindorsman" /> </p>
