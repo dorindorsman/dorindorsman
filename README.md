@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineering || Android Developer at Intel </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dorindorsman&label=Profile%20views&color=0e75b6&style=flat" alt="dorindorsman" /> </p>
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **SwiftUI 🍎 **
 
 - 💬 Ask me about **Java, Kotlin and Jetpack Compose - Android Studio || Java - Eclipse || C - Visual Studio**
 
