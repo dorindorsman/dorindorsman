@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SwiftUI 🍎 **
 
-- 💬 Ask me about **Java, Kotlin and Jetpack Compose - Android Studio || Java - Eclipse || C - Visual Studio**
+- 💬 Ask me about **Java, Kotlin Jetpack Compose KMP Flutter - Android Studio || Java - Eclipse || C - Visual Studio**
 
 - 📫 How to reach me **dorsmandorin@gmail.com**
 
