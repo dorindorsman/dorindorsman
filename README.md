@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dorin Dorsman</h1>
 <h3 align="center">A passionate software engineering || Android Developer </h3>
-<h3 align="center">Java | Kotlin | Jetpack Compose</h3>
+<h3 align="center">Java | Kotlin | Jetpack Compose |  KMP | Flutter</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dorindorsman&label=Profile%20views&color=0e75b6&style=flat" alt="dorindorsman" /> </p>
 
 - 🌱 I’m currently learning **SwiftUI 🍎 **
